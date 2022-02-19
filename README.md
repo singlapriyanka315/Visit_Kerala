@@ -1,5 +1,4 @@
 # Visit_Kerala
-Designed to increase Kerala tourism.
 ===============================
 
 ## About the Project
