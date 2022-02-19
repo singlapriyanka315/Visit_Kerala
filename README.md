@@ -12,6 +12,6 @@ Built with HTML, CSS, BootStrap,JavaScript.
 ![image](https://user-images.githubusercontent.com/66158960/154806449-581cba1f-9b56-4e30-9b35-1d79659860ae.png)
 
 ## Credits
-- React Docs https://reactjs.org/docs/getting-started.html
-- W3schools.com
-- Google Fonts
+- BootStrap Doc https://getbootstrap.com/
+- W3schools.com https://www.w3schools.com/
+- Google Fonts  https://fonts.google.com/
