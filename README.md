@@ -1,6 +1,6 @@
 # Visit_Kerala
 ===============================
-About the Project
+##About the Project
 
 Built with HTML, CSS, BootStrap,JavaScript. 
 - user-friendly interface
