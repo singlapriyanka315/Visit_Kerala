@@ -1,4 +1,4 @@
-<!-- # Visit Kerala
+# Visit Kerala
 
 About the Project
 
@@ -15,4 +15,4 @@ Built with HTML, CSS, BootStrap,JavaScript.
 - BootStrap Doc https://getbootstrap.com/
 - W3schools.com https://www.w3schools.com/
 - Google Fonts  https://fonts.google.com/
- -->
+
